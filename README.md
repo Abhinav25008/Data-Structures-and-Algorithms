@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithms
-In this repository I would be pushing Data Structures and Algorithms question which i solved from youtube lectures
+In this repository I would be pushing Data Structures and Algorithms question which i have solved.
